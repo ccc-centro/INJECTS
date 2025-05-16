@@ -13,7 +13,9 @@ If this happens it can become a problem because if the person can’t manage to 
 We also tried to refresh the page multiple times.
    ![Error ref](images/errorref.png)  ![Error ref 2](images/errorref2.png)
  3. If we open the Email Addresses section and try to make the email template from there, it give us an error on the console, and then it doesn't let us add the template once we finish filling the informations:
-    ![Email error](images/addresstemplate.png)  
+    ![Email error](images/addresstemplate.png)
+ 4. If we don't had an info channel in the editor, when we upload the definition it will appear this error:
+    ![YML no info channel](images/ymlerror.png)
 # Bugs
  1. After pressing submit nothing happens, however if we press the next button, it saves and continues without any problems.
     ![Submit Button](images/submit.png)
@@ -21,6 +23,7 @@ We also tried to refresh the page multiple times.
     ![Out the box](images/outthebox.png)
  3. When we try to create a template it doesn't let us add it.
     ![Add template not working](images/addnotwork.png)
+ 4. When we try to upload a definition, if we try to upload one, and it gives an error, and we then try to upload another definition without closing the upload the definition pop-up, it won't try to validate, and won't let us add it unless we close the pop up and retry to upload.
 # Questions
  What is the purpose of the submit button?
 # Observations
