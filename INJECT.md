@@ -1,3 +1,9 @@
+#Index:
+- Errors
+- Bugs
+- Questions
+- Observations
+
 # Errors
  1. After adding a connection to a questionnaire that we assume that was a wrong connection, and also when we tried to change the predefined inject, of the type questionnaire, on a learning activity from the default to other questionnaire, this happened:
     ![Error name](images/errorname.png)  ![Error name 2](images/errorname2.png)
