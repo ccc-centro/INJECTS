@@ -18,7 +18,8 @@ We also tried to refresh the page multiple times.
     ![Submit Button](images/submit.png)
  2. If we write something bigger than the intended text box in questions the text will go out of the box.
     ![Out the box](images/outthebox.png)
- 3. When we try to create a template 
+ 3. When we try to create a template it doesn't let us add it.
+    ![Add template not working](images/addnotwork.png)
 # Questions
  What is the purpose of the submit button?
 # Observations
